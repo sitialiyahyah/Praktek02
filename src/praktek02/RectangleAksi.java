@@ -2,9 +2,9 @@ package praktek02;
 
 public class RectangleAksi {
     public static void main(String[] args) {
-        Rectangle rl = new Rectangle();
-        rl.panjang = 9;
-        rl.lebar = 3;
+        Rectangle r1 = new Rectangle();
+        r1.panjang = 9;
+        r1.lebar = 3;
     }
                 
 }
